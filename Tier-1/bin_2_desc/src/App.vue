@@ -56,7 +56,7 @@ export default {
         return;
       }
 
-      // Reverse Binary to itarete from back
+      // Reverse Binary to iterate from back
       const reversedBynary = this.binary
         .split("")
         .map(Number)

@@ -1,2 +1,2 @@
-# app-ideas-collection
-Projects based on App Ideas Collection by Florin Pop
+## :ledger: AppIdeasCollection
+Projects based on [App Ideas Collection](https://github.com/florinpop17/app-ideas) by [Florin Pop](https://github.com/florinpop17)
